@@ -1,2 +1,2 @@
 # instagram
- Recriando a pagina de login do instagram
+ Recriando a pagina principal do instagram
